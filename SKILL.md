@@ -1,6 +1,7 @@
 ---
 name: deep-research
-description: 当任何问题需要联网调研时，使用本 Skill 替代普通的网页搜索。触发场景包括「X 是什么」「解释一下 X」「对比 X 和 Y」「调研一下 X」，或在开始内容创作类任务之前。本 Skill 提供系统化的多角度、双语检索调研方法，而非一次浅层的搜索。当用户的问题需要联网信息时，应主动使用。English triggers: "what is X", "explain X", "compare X and Y", "research X", "latest on X", "deep dive into X", "investigate X".
+description: >-
+  当任何问题需要联网调研时，使用本 Skill 替代普通的网页搜索。触发场景包括「X 是什么」「解释一下 X」「对比 X 和 Y」「调研一下 X」，或在开始内容创作类任务之前。本 Skill 提供系统化的多角度、双语检索调研方法，而非一次浅层的搜索。当用户的问题需要联网信息时，应主动使用。English triggers: "what is X", "explain X", "compare X and Y", "research X", "latest on X", "deep dive into X", "investigate X".
 ---
 
 # 深度调研 Skill（Deep Research）
