@@ -44,11 +44,11 @@
 
 ```bash
 # 用户级（全局可用）
-git clone https://github.com/<your-username>/deep-research-skill.git \
+git clone https://github.com/chenxiao-reverie/deep-research-skill.git \
   ~/.workbuddy/skills/deep-research
 
 # 或项目级（仅当前项目）
-git clone https://github.com/<your-username>/deep-research-skill.git \
+git clone https://github.com/chenxiao-reverie/deep-research-skill.git \
   <your-project>/.workbuddy/skills/deep-research
 ```
 
@@ -65,7 +65,7 @@ deep-research/
 ### 方式二：作为子模块
 
 ```bash
-git submodule add https://github.com/<your-username>/deep-research-skill.git \
+git submodule add https://github.com/chenxiao-reverie/deep-research-skill.git \
   .workbuddy/skills/deep-research
 ```
 
